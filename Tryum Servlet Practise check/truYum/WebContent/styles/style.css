@@ -1,0 +1,188 @@
+.topnav {
+	background-color: SteelBlue;
+	overflow: hidden;
+}
+
+img {
+	padding-top: 15px;
+	height: 35px;
+	width: 35px;
+}
+
+body {
+	margin: 0;
+	background-color: white;
+	font-family: Segoe UI, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: left;
+	margin-left: 100px;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+}
+
+h3 {
+	text-align: left;
+	color: green;
+	margin-left: 100px;
+	margin-top: 60px;
+}
+
+.page-title {
+	font-size: 170%;
+	font-weight: bold;
+	padding-left: 17px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+.topnav a {
+	float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.topnav div {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 25px;
+}
+
+.home {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+table {
+	margin-left: 100px;
+}
+
+th, td {
+	padding: 15px;
+	text-align: left;
+	
+}
+
+.button {
+	font-family: Segoe UI, Arial, Helvetica, sans-serif;
+	margin-top: 15px;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
+
+.success-button {
+	background-color: SteelBlue;
+	font-size: 20px;
+	margin-left: 100px;
+	color: ivory;
+}
+
+.message {
+	margin-top: 15px;
+	color: #8c8c8c;
+	font-size: 20px;
+}
+
+.success-message {
+	margin-top: 15px;
+	color: green;
+	font-size: 20px;
+	text-align: center;
+}
+
+.text-box {
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.name-box {
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	width: 350%;
+}
+
+.text-box-title {
+	width: 100%;
+}
+
+.body-content-colour {
+	border-radius: 5px;
+	background-color: #f2f2f2;
+	padding: 20px;
+	width: 100px;
+
+}
+
+.form-field-spacing {
+	margin-right: 100px;
+	display: inline-block;
+	box-sizing: border-box;
+	margin: 20px;
+	margin-left : 100px;
+}
+
+.currency {
+	text-align: right;
+}
+
+.total {
+	font-weight: bold;
+
+}
+
+.radio {
+	margin: 16px 0;
+}
+
+.dropdown {
+	margin: 10px 0;
+	font-family: Segoe UI, Arial, Helvetica, sans-serif;
+	height: 40px;
+	border-radius: 4px;
+}
+
+h4 {
+	text-align: left;
+	margin-left: 100px;
+}
+
+.footer {
+	background-color: rgb(180, 180, 180);
+	overflow: hidden;
+	padding: 14px 16px;
+	float: left;
+	color: #000000;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	text-decoration: none;
+	font-size: 17px;
+	width: 100%;
+}
